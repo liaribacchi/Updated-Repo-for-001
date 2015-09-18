@@ -9,7 +9,7 @@
 This is a basic and novice website for the first code review for the Epicodus class Introduction to Programming. The website content shares a little bit about Lia Ribacchi. Has a photo of a dog. And has a list of 3 websites to check out. Pleas e do not use this code for anything. Just enjoy the website for what it is, a first attempt.
 
 ## Source* 
-* 
+* http://liaribacchi.github.io/Updated-Repo-for-001/
 
 
 ## Technologies Used
