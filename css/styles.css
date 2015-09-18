@@ -1,0 +1,35 @@
+h1 {
+	color: black;
+	text-align: left;
+	font-size: 32px;
+}
+
+h4 {
+	font-weight: bold;
+	color: #663300;
+	text-align: left;
+	line-height: 20px;
+	padding-left: 20px;
+}
+
+p {
+	font-family: sans-serif;
+}
+
+ul {
+	font-size: 20px;
+	line-height: 30px;
+}
+
+a {
+	color: #CC0099;
+}
+
+em {
+	color: #663300;
+}
+
+li {
+	line-height: 17px;
+	font-size: 15px;
+}
